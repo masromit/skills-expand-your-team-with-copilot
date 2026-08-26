@@ -173,7 +173,7 @@ initial_activities = {
         "difficulty": "Intermediate"
     },
     "Manga Maniacs": {
-        "description": "Explore the fantastic stories of the most interesting characters from Japanese Manga (graphic novels).",
+        "description": "Unleash your inner hero! 🌟 Dive into epic battles, heartfelt friendships, and legendary power-ups as we explore the greatest Japanese Manga universes. From shonen warriors to magical girls — your adventure arc begins HERE!",
         "schedule": "Tuesdays, 7:00 PM",
         "schedule_details": {
             "days": ["Tuesday"],
