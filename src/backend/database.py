@@ -173,7 +173,7 @@ initial_activities = {
         "difficulty": "Intermediate"
     },
     "Manga Maniacs": {
-        "description": "Unleash your inner hero! 🌟 Dive into epic battles, heartfelt friendships, and legendary power-ups as we explore the greatest Japanese Manga universes. From shonen warriors to magical girls — your adventure arc begins HERE!",
+        "description": "Your destiny arc starts NOW! 📖⚔️ Whether you're a shonen battle fanatic, a shojo romance dreamer, or a seinen mystery seeker — Manga Maniacs is your dojo. Explore iconic series, discover hidden gems, and level up your manga knowledge alongside fellow otaku. Plus ultra enthusiasm required! 🔥",
         "schedule": "Tuesdays, 5:00 PM",
         "schedule_details": {
             "days": ["Tuesday"],
